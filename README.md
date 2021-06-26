@@ -1,2 +1,1 @@
 "# Mini_projects" 
-hello
